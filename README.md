@@ -9,6 +9,7 @@ As for IDEs, I am well-versed with BlueJ, IntelliJ, Visual Studio, and Eclipse, 
 <br><br>
 If you'd like to connect, check out my links below!
 <br>
+<a rel="me" href="https://infosec.exchange/@panfrieddupa">Mastodon</a>
 <a href="https://twitter.com/panfrieddupa">Twitter</a> ||
 <a href="https://linkedin.com/in/rebekahbulych">LinkedIn</a> ||
 <a href="https://bekahthe.dev">Personal Website</a> ||
