@@ -14,8 +14,3 @@ If you'd like to connect, check out my links below!
 <a href="https://linkedin.com/in/rebekahbulych">LinkedIn</a> ||
 <a href="https://bekahthe.dev">Personal Website</a> ||
 <a href="https://bekah.codes">Personal Blog</a>
-
-<!---
-panfrieddupa/panfrieddupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
